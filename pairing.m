@@ -1,3 +1,4 @@
+% PROJECT: Christmas-Present Angel
 clear all
 n=7; %number of people ( numbers represent the order in the list)
 domain=[1:7];   %people drawing
